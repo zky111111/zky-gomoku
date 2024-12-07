@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zky111111/zky-gomoku.git/static/css/main.2cb9a270.css",
+    "main.js": "/zky111111/zky-gomoku.git/static/js/main.fcc3531e.js",
+    "index.html": "/zky111111/zky-gomoku.git/index.html",
+    "main.2cb9a270.css.map": "/zky111111/zky-gomoku.git/static/css/main.2cb9a270.css.map",
+    "main.fcc3531e.js.map": "/zky111111/zky-gomoku.git/static/js/main.fcc3531e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.fcc3531e.js"
+  ]
+}
