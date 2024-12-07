@@ -2,7 +2,7 @@
   "name": "my-gomoku",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/zky111111/gomoku.git",
+  "homepage": "https://github.com/zky111111/zky-gomoku.git",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
